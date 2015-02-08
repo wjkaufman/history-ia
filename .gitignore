@@ -2,3 +2,8 @@
 .~lock.*
 *.aux
 *.log
+*.bbl
+*.bcf
+*.blg
+*.dvi
+
